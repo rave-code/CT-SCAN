@@ -1,8 +1,6 @@
 venv/
 archive.zip
 *.zip
-dataset/
-brain_tumor_mri/
 models/
 results/
 __pycache__/
