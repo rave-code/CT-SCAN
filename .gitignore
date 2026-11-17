@@ -1,0 +1,11 @@
+@"
+venv/
+archive.zip
+*.zip
+dataset/
+brain_tumor_mri/
+models/
+results/
+__pycache__/
+*.joblib
+"@ | Set-Content .gitignore -Encoding ascii
